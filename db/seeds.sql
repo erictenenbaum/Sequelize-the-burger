@@ -1,0 +1,1 @@
+INSERT INTO burgers (burger_name, devoured) Values ("Big Mac", 0);

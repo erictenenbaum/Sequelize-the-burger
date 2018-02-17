@@ -1,0 +1,26 @@
+.burgerPic {
+	max-height: 500px;
+	max-width: 310px;
+}
+
+body {
+	background-color: orange;
+}
+
+.devoured {
+	background-color: #DEB887;
+	padding-left: 20px;
+}
+
+.fresh {
+	background-color: #FFA07A;
+		padding-left: 20px;
+	margin-left: 40px;
+}
+
+.addBurger {
+	padding-left: 60px;
+}
+
+
+

@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Joffrey425",
+    "database": "sequelize_burger",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "process.env.password",
+    "database": "sequelize_burger",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "process.env.password",
+    "database": "sequelize_burger",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
