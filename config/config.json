@@ -1,11 +1,5 @@
 {
-  "development": {
-    "username": "root",
-    "password": "Joffrey425",
-    "database": "sequelize_burger",
-    "host": "localhost",
-    "dialect": "mysql"
-  },
+  
   "test": {
     "username": "root",
     "password": "process.env.password",
@@ -14,10 +8,7 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": " rhqjmwjpo9v0recd",
-    "password": "ac4y6e5qu5y5bhps.env.password",
-    "database": "sequelize_burger",
-    "host": " yhrz9vns005e0734.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "use_env_variable": "JAWSDB_URL",
     "dialect": "mysql"
   }
 }
