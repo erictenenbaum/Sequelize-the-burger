@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "process.env.password",
+    "username": " rhqjmwjpo9v0recd",
+    "password": "ac4y6e5qu5y5bhps.env.password",
     "database": "sequelize_burger",
-    "host": "localhost",
+    "host": " yhrz9vns005e0734.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
